@@ -1,6 +1,6 @@
 	#!/bin/bash
 # SayCheese v1.1
-# coded by: github.com/thelinuxchoice/saycheese
+# coded by: හායි දිමුතු........කොඩ් එක මගේ දෙන්න එපා කාටවත්..ලහිරැ 
 # If you use any part from this code, giving me the credits. Read the Lincense!
 
 trap 'printf "\n";stop' 2

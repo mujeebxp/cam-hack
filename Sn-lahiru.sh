@@ -10,7 +10,7 @@ banner() {
 
 
 
-printf " \e[1;77m v1.1 coded by github.com/thelinuxchoice/saycheese\e[0m \n"
+printf " \e[1;77m හායි දිමුතු........කොඩ් එක මගේ දෙන්න එපා කාටවත්..ලහිරැ /e[0m \n"
 
 printf "\n"
 
